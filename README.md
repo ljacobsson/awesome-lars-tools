@@ -13,5 +13,6 @@ Consolidated list of the tools I maintain
 * [schemas-cli](https://github.com/mhlabs/schemas-cli) - Tool to generate code bindings in a variety of languages from schemas in EventBridge Schema Registry
 * [cfn-subset](https://github.com/mhlabs/cfn-subset) - Extract a subset of a CloudFormation template for quick deploys when integration testing parallel stacks
 * [sam-patterns-cli](https://github.com/mhlabs/sam-patterns-cli) - Discover and inject common patterns from serverlessland.com/patterns or from custom sources straight into your CloudFormation template
+* [awscii-cli](https://github.com/mhlabs/awscii-cli) - Tool that renders ASCII-art graphs of AWS resource's metrics
 
 More on the above [here](https://dev.to/ljacobsson/a-brief-summary-of-our-aws-productivity-tools-2ofl)
