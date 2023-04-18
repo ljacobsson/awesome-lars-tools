@@ -20,4 +20,4 @@ List of the tools I maintain
 * [sam-patterns-cli](https://github.com/mhlabs/sam-patterns-cli) - Discover and inject common patterns from serverlessland.com/patterns or from custom sources straight into your CloudFormation template, and much more SAM related things
 * [awscii-cli](https://github.com/mhlabs/awscii-cli) - Tool that renders ASCII-art graphs of AWS resource's metrics
 
-More on the above [here](https://dev.to/ljacobsson/a-brief-summary-of-our-aws-productivity-tools-2ofl)
+More on some of the above [here](https://dev.to/ljacobsson/a-brief-summary-of-our-aws-productivity-tools-2ofl)
